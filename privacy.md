@@ -4,7 +4,7 @@ Last updated: October 8, 2026
 
 ## Overview
 
-This Privacy Policy applies to a personal automated SMS notification system operated by the registered sole proprietor. The system sends transactional and operational text message alerts only to users who have explicitly consented to receive them.
+This Privacy Policy applies to a personal automated SMS notification system operated by Cully Guidry, the registered sole proprietor. The system sends transactional and operational text message alerts only to users who have explicitly consented to receive them.
 
 ## Information Collected
 
