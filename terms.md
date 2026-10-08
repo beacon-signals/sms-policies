@@ -6,9 +6,8 @@ Last updated: October 8, 2026
 
 ## SMS Notification Service
 
-These Terms & Conditions apply to a personal automated SMS notification system operated by Cully Guidry, the registered sole proprietor.
+These Terms & Conditions govern the SMS notification service provided by Cully Guidry, the registered business/Brand for this messaging campaign. Cully Guidry operates a personal automated software system that sends transactional and operational SMS notifications to opted-in recipients.
 
-The service provides transactional and operational text message notifications related to the operation of the owner's personal software system.
 
 ## Types of Messages
 
