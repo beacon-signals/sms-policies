@@ -1,5 +1,7 @@
 # Privacy Policy
 
+**Registered Brand: Cully Guidry**
+
 Last updated: October 8, 2026
 
 ## Overview
