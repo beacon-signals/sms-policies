@@ -1,5 +1,7 @@
 # Terms & Conditions
 
+**Registered Brand: Cully Guidry**
+
 Last updated: October 8, 2026
 
 ## SMS Notification Service
